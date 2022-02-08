@@ -1,5 +1,5 @@
 # DIO-Desafio-primeiro-repositorio
-Desafio da Digital Inovation One sobre Git/Github
+Repositório criado para o desafio da DIO 
 
 ## Links uteis
 
